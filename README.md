@@ -31,9 +31,11 @@ Before we analyze the code, let's look at the time it took to run the stocks ana
 
 
 **Time taken for analysis with original code**
+
 ![](./resources/Original_Code_2017.png)                  ![](./resources/Original_Code_2018.png)
 
 **Time taken for analysis with refactored code**
+
 ![](./resources/VBA_Challenge_2017.png)                  ![](./resources/VBA_Challenge_2018.png)
 
 **<em>So, it is clear that almost .6 seconds were saved with refactored code.</em>** 
