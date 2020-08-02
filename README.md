@@ -22,6 +22,7 @@ From the figure below, we see that while most of the stocks gave positive return
 ![](./resources/Yearly_Return_2017Vs2018.png)
 
 Now, let's look at how these two stocks performed in total daily volumes. We see that ENPH traded on much higher volume and gave positive returns for both years.
+
 ![](./resources/Total_Daily_Volumes_2017Vs2018.png)
 
 **Hence, our recommendation for Steve's parents would be to invest in ENPH**
